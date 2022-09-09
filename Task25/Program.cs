@@ -27,6 +27,7 @@ int Digitss (string N)
     int coma = 0;
     string Inter = string.Empty;
     while (i< size)
+    {
         if (N [i] == ',') 
         {
             coma = i;
@@ -42,7 +43,10 @@ int Digitss (string N)
             break;
         }
         else i++;
-    int newN = int.Parse(Inter);
+    }
+    int newN = 0;
+    if (Inter != string.Empty) newN = int.Parse(Inter);
+    else newN = int.Parse(N);
     int result = 0;
     while (newN > 0)
     {
