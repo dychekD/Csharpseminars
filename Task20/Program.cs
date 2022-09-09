@@ -1,12 +1,16 @@
 ﻿string palindrome (string dit)
 {
-string res = "it is not a palindrome";
+string res = string.Empty;
 int size = dit.Length;
 int left = 0;
 int right = size-1;
 while (left < right)
 {
-    if (dit [left]!=dit [right]) break;
+    if (dit [left]!=dit [right]) 
+    {
+        res = "it is not a palindrome";
+        break;
+    }
     else if (dit [left]==dit [right]) res = "it is a palindrome";
     right = right -1;
     left++;
