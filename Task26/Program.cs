@@ -140,18 +140,14 @@ int[] FillArrayTen(int size)
     }
     return mas;
 }
-int[] pair(int[] mas)
+int [] pair(int [] mas)
 {
-    int L = Convert.ToInt32(Math.Round(Convert.ToDouble(mas.Length / 2)));
-
-    int[] result = new int[L+1];
-    for (int i = 0; i < mas.Length / 2; i++)
-    {
-
-        result[i] = mas[i] * mas[mas.Length - 1 - i];
-
-    }
-    result[L] = mas[L];
+    decimal L = mas.Length;
+    decimal L0 = Math.Ceiling(L/2);
+    int L1 = Convert.ToInt32 (L0);
+    int [] result = new int [L1];
+    for (int i = 0; i < mas.Length / 2; i++) result[i] = mas[i] * mas[mas.Length - 1 - i];
+    if (L0>L/2) result[L1-1] = mas[L1-1];
     return result;
 }
 System.Console.WriteLine("Enter size of array");
