@@ -1,4 +1,4 @@
-﻿int[] FillArray(int size)
+﻿int [] FillArray(int size)
             {
             int[] mas = new int[size];
 
@@ -33,8 +33,22 @@ double [] Stats (int [] numbers)
     result [2] = numbers [Imin];
     result [3] = Imin;
     result [4] = result[4] / numbers.Length;
-    if (numbers.Length % 2 == 0) result [5] = (numbers [numbers.Length /2 -1] + numbers [numbers.Length /2])/ 2;
-    else result [5] = numbers [numbers.Length /2];
+    int [] arr = numbers;
+    for (int j = 0; j < arr.Length-1; j++)
+        {
+            for (int g = j +1 ; g < arr.Length; g++)
+        {
+            if (arr [j] > arr [g]) 
+        {
+            int temp = arr [j];
+            arr [j] = arr [g];
+            arr [g] = temp;
+        }
+        }
+        }
+    for (int o = 0; o < arr.Length; o++) Console.Write ($"{arr [o]}, ");
+    if (arr.Length % 2 == 0) result [5] = (Convert.ToDouble (arr [arr.Length /2 -1] + arr [arr.Length /2]))/ 2;
+    else result [5] = arr [arr.Length /2];
     Console.WriteLine ($"max number in array: {result [0]}");
     Console.WriteLine ($"index of max number in array: {result [1]}");
     Console.WriteLine ($"min number in array: {result [2]}");
