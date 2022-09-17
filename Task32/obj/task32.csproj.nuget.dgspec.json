@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EDUCATION\\Csharpsem1\\task32\\task32.csproj": {}
+  },
+  "projects": {
+    "C:\\EDUCATION\\Csharpsem1\\task32\\task32.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EDUCATION\\Csharpsem1\\task32\\task32.csproj",
+        "projectName": "task32",
+        "projectPath": "C:\\EDUCATION\\Csharpsem1\\task32\\task32.csproj",
+        "packagesPath": "C:\\Users\\daria.dychek\\.nuget\\packages\\",
+        "outputPath": "C:\\EDUCATION\\Csharpsem1\\task32\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daria.dychek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
