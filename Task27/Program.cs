@@ -17,7 +17,7 @@ void PrintArray(int[] mmm)
                     else Console.WriteLine($"{mmm[i]}");
                 }
             }
-int PosNum (int [] numbers)
+int EvenNum (int [] numbers)
 {
     int result = 0;
     foreach (var item in numbers)
@@ -30,7 +30,7 @@ try
     int L = Convert.ToInt32 (Console.ReadLine ());
     int [] Pos = FillArray (L);
     PrintArray (Pos);
-    Console.WriteLine ($"the number of positive integers in this array equals {PosNum (Pos)}");
+    Console.WriteLine ($"the number of even integers in this array equals {EvenNum (Pos)}");
 }
 catch
 {
