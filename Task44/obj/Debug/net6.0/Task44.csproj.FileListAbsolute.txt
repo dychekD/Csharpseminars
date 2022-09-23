@@ -1,0 +1,15 @@
+C:\EDUCATION\Csharpsem1\Task44\bin\Debug\net6.0\Task44.exe
+C:\EDUCATION\Csharpsem1\Task44\bin\Debug\net6.0\Task44.deps.json
+C:\EDUCATION\Csharpsem1\Task44\bin\Debug\net6.0\Task44.runtimeconfig.json
+C:\EDUCATION\Csharpsem1\Task44\bin\Debug\net6.0\Task44.dll
+C:\EDUCATION\Csharpsem1\Task44\bin\Debug\net6.0\Task44.pdb
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.csproj.AssemblyReference.cache
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.AssemblyInfoInputs.cache
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.AssemblyInfo.cs
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.csproj.CoreCompileInputs.cache
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.dll
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\refint\Task44.dll
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.pdb
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\Task44.genruntimeconfig.cache
+C:\EDUCATION\Csharpsem1\Task44\obj\Debug\net6.0\ref\Task44.dll
