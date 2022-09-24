@@ -1,0 +1,15 @@
+C:\EDUCATION\Csharpsem1\Task47\bin\Debug\net6.0\Task47.exe
+C:\EDUCATION\Csharpsem1\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\EDUCATION\Csharpsem1\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\EDUCATION\Csharpsem1\Task47\bin\Debug\net6.0\Task47.dll
+C:\EDUCATION\Csharpsem1\Task47\bin\Debug\net6.0\Task47.pdb
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.dll
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.pdb
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\EDUCATION\Csharpsem1\Task47\obj\Debug\net6.0\ref\Task47.dll
