@@ -1,0 +1,15 @@
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.csproj.AssemblyReference.cache
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.AssemblyInfoInputs.cache
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.AssemblyInfo.cs
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.csproj.CoreCompileInputs.cache
+C:\EDUCATION\Csharpsem1\Task49\bin\Debug\net6.0\Task49.exe
+C:\EDUCATION\Csharpsem1\Task49\bin\Debug\net6.0\Task49.deps.json
+C:\EDUCATION\Csharpsem1\Task49\bin\Debug\net6.0\Task49.runtimeconfig.json
+C:\EDUCATION\Csharpsem1\Task49\bin\Debug\net6.0\Task49.dll
+C:\EDUCATION\Csharpsem1\Task49\bin\Debug\net6.0\Task49.pdb
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.dll
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\refint\Task49.dll
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.pdb
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\Task49.genruntimeconfig.cache
+C:\EDUCATION\Csharpsem1\Task49\obj\Debug\net6.0\ref\Task49.dll
